@@ -283,7 +283,7 @@ Tech Stack: GCP · Resume ATS · Automation · Scheduled Jobs · GitHub · CI/CD
                 <div className="space-y-2">
                   <div>
                     <a
-                      href="https://leetcode.com/u/pallavdeshmukh18/"
+                      href="https://leetcode.com/u/pallav_deshmukh/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-zinc-200 hover:text-[#ff5a36] underline"

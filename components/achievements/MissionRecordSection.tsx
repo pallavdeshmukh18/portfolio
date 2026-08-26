@@ -306,7 +306,7 @@ const MissionRecordSection = forwardRef<HTMLElement, object>(
                 </div>
 
                 <a
-                  href="https://leetcode.com/u/pallavdeshmukh18/"
+                  href="https://leetcode.com/u/pallav_deshmukh/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="View Pallav Deshmukh LeetCode profile (opens in a new tab)"
